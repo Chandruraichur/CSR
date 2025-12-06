@@ -1,5 +1,5 @@
 a) FIFO
-#include<stdio.h>
+<h1>p#include<stdio.h></stdio.h></h1>h1>
 main() {
 int a[5],b[20],n, p=0,q=0,m=0,h,k,i, q1=1;
 char f='F';
